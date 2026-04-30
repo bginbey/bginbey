@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bginbey
-- 👀 I’m interested in Design Systems, UI, FE
+- 👀 I’m interested in Design Systems, UI, FE, Audio, DSP, Game Dev
 - 🌱 I’m currently learning things
 
 <!---
