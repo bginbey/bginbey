@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bginbey
-- 👀 I’m interested in Design Systems, UI, FE, Audio, DSP, Game Dev
-- 🌱 I’m currently learning things
+- 👀 I’m interested in Design, UX, UI, Audio, DSP, Game Dev
+- 🌱 I’m currently learning/building things
 
 <!---
 bginbey/bginbey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
